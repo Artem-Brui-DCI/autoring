@@ -1,10 +1,10 @@
 # Github Flavoured Markdown
 
-## - [x] External Link
-## - [x] ## Internal Link
-## - [x] ## Images
-## - [x] ## Emojis
-## - [x] ## Tables
+- [x] External Link
+- [x] Internal Link
+- [x] Images
+- [x] Emojis
+- [x] Tables
 
 ### [Here](https://help.github.com/en) is a Link to the github documentation!
 ### [Here](./new-folder/) is a folder with an image!
